@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/user-event": "^7.1.2",
+    "bs-css": "^11.0.0",
+    "bs-let": "^0.1.11",
+    "bs-platform": "^7.0.1",
+    "decco": "^1.1.1",
+    "reason-react": ">=0.7.0"
+  },
+  "scripts": {
+    "bsb:build": "bsb -make-world -clean-world",
+    "bsb:watch": "bsb -make-world -clean-world -w",
+    "bsb:clean": "bsb -clean-world"
+  }
+}

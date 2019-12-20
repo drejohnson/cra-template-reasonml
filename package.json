@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-reasonml",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "reasonml",
+    "reason-react",
+    "bucklescript"
+  ],
+  "description": "A Reason-React template for Create React App.",
+  "main": "template.json",
+  "repository": "https://github.com/drejohnson/cra-template-reasonml.git",
+  "author": "drejohnson <drejohnson212@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drejohnson/cra-template-reasonml/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
