@@ -7,7 +7,7 @@
     "dir": "src",
     "subdirs": true
   },
-  "bsc-flags": ["-bs-super-errors", "-bs-no-version-header"],
+  "bsc-flags": ["-open Belt", "-bs-super-errors", "-bs-no-version-header"],
   "package-specs": [
     {
       "module": "es6",
